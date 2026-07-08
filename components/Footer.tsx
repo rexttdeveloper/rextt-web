@@ -17,13 +17,13 @@ const columns = [
       { label: "Documentation", href: "/docs" },
       { label: "Developer Guide", href: "/docs/developer-guide/creating-extensions" },
       { label: "SDK Overview", href: "/docs/developer-guide/sdk-overview" },
-      { label: "GitHub", href: "https://github.com/rexttdeveloper", external: true },
+      { label: "GitHub", href: "https://github.com/rexttdeveloper/rextt-web", external: true },
     ],
   },
   {
     title: "Community",
     links: [
-      { label: "Reddit", href: "https://reddit.com/r/rext", external: true },
+      { label: "Reddit", href: "https://reddit.com/r/rextt", external: true },
       { label: "Discord", href: "https://discord.gg/rext", external: true },
       { label: "Contribute", href: "/developers" },
     ],
